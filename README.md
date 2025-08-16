@@ -1,30 +1,31 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Dulmini Munasinghe  
 
-## 💻 Software Developer  
+## 💻 Full Stack Developer  
 
 ### 🚀 Technology Stack
 ![React](https://img.shields.io/badge/-React-61DBFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DBFB?logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-61DBFB?logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasunika0216&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasunika0216&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dasunika0216&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulmini-munasinghe-728482254/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:dulmini.22@cse.mrt.ac.lk)
 
 ---
 
