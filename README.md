@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Dulmini Munasinghe
 
-<!--
-**Dasunika0216/Dasunika0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+### 🚀 Technology Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-61DBFB?logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot\&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular\&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DBFB?logo=react\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo\&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasunika0216\&show_icons=true\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasunika0216\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dasunika0216\&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dulmini-munasinghe-728482254/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail\&logoColor=white)](mailto:dulmini.22@cse.mrt.ac.lk)
+
+---
+
+✨ *"Exploring the future of software through full-stack development"*
