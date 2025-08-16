@@ -16,14 +16,19 @@
 
 ---
 
-### 📊 <span style="color:#f5f5f5;">GitHub Stats</span>
+### 📊 <span style="color:#f5f5f5;">GitHub Stats</span>  
+<span style="color:#d3d3d3;">GitHub Stats</span>  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasunika0216&show_icons=true&theme=radical)
+
+<span style="color:#d3d3d3;">Top Languages</span>  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasunika0216&layout=compact&theme=radical)
+
+<span style="color:#d3d3d3;">GitHub Streak</span>  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dasunika0216&theme=radical)
 
 ---
 
-### 🌐 <span style="color:#dcdcdc;">Connect with Me</span>
+### 🌐 <span style="color:#dcdcdc;">Connect with Me</span>  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulmini-munasinghe-728482254/)  
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:dulmini.22@cse.mrt.ac.lk)
 
